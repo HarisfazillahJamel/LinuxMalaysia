@@ -1,0 +1,78 @@
+Kursus GIT Perisian Kawalan Versi (Version Control) Untuk Pembangunan Perisian
+
+Bagi pembangunan perisian, kawalan versi (version control) adalah penting bagi tujuan untuk merekod perubahan kod sumber (source code) perisian. Ianya berdasarkan masa perjalanan pembangunan perisian dan apa yang dilakukan oleh pembangunnya. Saya berbesar hati atas jemputan MaGIC, mymagic.my  untuk mengendalikan kelas GIT yang bertajuk 
+
+
+
+--------------
+
+Registration and update information please visit this link. 
+
+http://mymagic.my/events/event/ma-crash-course-source-control-using-git-2/
+
+MA: Crash Course Source Control Using GIT
+
+
+GIT is a free and open source distributed version control system, initially designed and developed by Linus Torvalds for the Linux kernel development. GIT is used to handle everything from small to very large projects with speed and efficiency.
+
+It is well known fact that GIT is now the most widely used source code management tool, used by enterprises, startups and individuals from all around the world.
+
+This full day intermediate-level workshop will go through the basics of GIT and then deep-dive into the more advanced topics related like best practices and more advanced usages of it.
+
+Why Do You Need GIT For Source Code Version Control?
+
+Version Control lets you track your files over time. Why do you care? So when you mess up you can easily get back to a previous working version. Large, fast-changing projects with many authors need a Version Control System to track changes and to avoid general chaos. Version Controldoes the following:
+
+Backup and Restore. Files are saved as they are edited and you commited. You can checkout your files to any date and time.
+
+Synchronization. Lets developers share files and stay up-to-date with each other latest version.
+
+Short-term and long-term undo. You can go back to the “last known good” version in the repository
+
+Track Changes. As files are updated, you can leave messages explaining why the change happened (stored in the VCS, not the file). This makes it easy to see how a file is evolving over time, and why.
+
+Sandboxing. You can make temporary changes in an isolated area, test and work out before “checking in” your changes.
+
+Branching and merging. A larger sandbox. You can branch a copy of your code into a separate area and modify it in isolation (tracking changes separately). Later, you can merge your work back into the common area.
+ 
+Key Takeaway
+
+Comparisons between various source controls (eg GIT vs SVN)
+Learn the basics of distributed source control
+Learn the various workflows, branching models to allow seamless and effective collaboration between developers who might be in various separate locations
+Learn how to debug and resolve source code conflicts (eg using git reflag)
+Tips and tricks, and best industry practices (eg issues to be wary of in the long run, configurations that will essential, UI tools)
+
+Pre – Requisite & Planning
+
+Laptop with minimum 4GB RAM
+Participants should have at least a programming development know how (at least 1 year programming work experience. Potential CTOs are highly recommended to attend)
+Participants has the basic knowledge about version control system like SVN or GIT
+
+Signup with GITHUB, https://github.com/
+Signup with Bitbucket https://bitbucket.org/
+Installed GIT for Windows https://msysgit.github.io/
+Bonobo GIT Server https://bonobogitserver.com/
+Useful References (and recommended readings)
+
+GIT Man Page https://git-scm.com/documentation
+GIT Cheat Sheet https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+
+Agenda
+
+10.00am – 11.00am : Setup & Introduction
+11.00am – 12.00am : Basic GIT Setup
+12.00 – 1.00pm : Working with development team. Branches out.
+1.00pm – 2.00pm : Break
+2.00pm – 4.30pm : Commit and merging branches.
+4.30pm – 5.00pm : Break
+5.30pm – 6.30pm : Handling conflict and release to production.
+7.00pm – 8.00pm : Ramadhan Dinner
+
+About the Instructor:
+
+Harisfazillah bin Jamel
+
+An Experience IT Professional with more than 24 years hands-on experience managing Unix & Linux Systems. Ever since he found Linux in 1998, Harisfazillah Jamel have advocated the usage of open source software and building active open souce communities in Malaysia. As a lobbyist and as an activist.
+
+
